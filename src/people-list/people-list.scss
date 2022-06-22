@@ -1,0 +1,11 @@
+.PeopleList {
+  width: 100%;
+  -moz-columns: 50px 5;
+  -webkit-columns: 50px 5;
+  columns: 50px 5;
+
+  .people {
+    font-size: 24px;
+    margin-bottom: 4px;
+  }
+}
